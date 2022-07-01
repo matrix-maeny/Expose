@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387774431779",
+    "project_id": "expose-d92b5",
+    "storage_bucket": "expose-d92b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387774431779:android:9ac1f6e0f21ededb9b2796",
+        "android_client_info": {
+          "package_name": "com.matrix_maeny.expose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387774431779-hp9ftuknmkeif6es65si0to3lf8m9rfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwM55uIkyiIu2Os5YXvKBtdjubGAJahE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387774431779-hp9ftuknmkeif6es65si0to3lf8m9rfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
